@@ -10,4 +10,3 @@ EmailModel.findOneAndRemove({
 }). error(err => {
     console.error(err)
 })
-
